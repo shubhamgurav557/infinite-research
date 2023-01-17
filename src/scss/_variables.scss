@@ -1,0 +1,17 @@
+$text-color: #fff;
+$font-weights: (
+    "regular": 400,
+    "medium": 600,
+    "bold": 700
+);
+
+$flexContent: (
+    'display': flex,
+    'align-items': center,
+    'justify-content': center,
+);
+
+// Responsive Breakpoints
+$breakpoint-medium: 1250px;
+
+$breakpoint-tablet: 768px;
