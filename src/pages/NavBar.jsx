@@ -1,3 +1,4 @@
+import React from 'react'
 import FilterListIcon from '@mui/icons-material/FilterList';
 
 const NavBar = () => {

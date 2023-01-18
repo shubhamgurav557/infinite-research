@@ -1,3 +1,4 @@
+import React from 'react'
 import { Banner, ExploreCategories, HomeProducts, NavBar } from '../filePaths';
 
 const Home = ({ categories, products }) => {

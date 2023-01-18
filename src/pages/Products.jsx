@@ -1,3 +1,4 @@
+import React from 'react'
 import { NavBar } from '../filePaths';
 import SortIcon from '@mui/icons-material/Sort';
 import FilterListIcon from '@mui/icons-material/FilterList';

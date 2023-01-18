@@ -1,3 +1,4 @@
+import React from 'react'
 import { Link } from "react-router-dom"
 
 const HomeProducts = ({ products }) => {
@@ -8,7 +9,7 @@ const HomeProducts = ({ products }) => {
         <section className="home-products">
             <div className="product-header">
                 <h4>Trending Auctions</h4>
-                <Link to='/auctions'>View all</Link>
+                <Link to='/products'>View all</Link>
             </div>
             <div className="product-bx">
                 <div className="row">
